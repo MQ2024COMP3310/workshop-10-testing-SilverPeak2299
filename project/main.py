@@ -14,5 +14,6 @@ def profile():
     return render_template('profile.html', name=current_user.name)
 
 # Danny was here
-#hi 
+#hi
+#smthn smthn 
 #It is me
